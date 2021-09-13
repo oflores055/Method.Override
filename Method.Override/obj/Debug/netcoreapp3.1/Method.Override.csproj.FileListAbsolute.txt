@@ -1,0 +1,13 @@
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/bin/Debug/netcoreapp3.1/Method.Override.deps.json
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/bin/Debug/netcoreapp3.1/Method.Override.runtimeconfig.json
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/bin/Debug/netcoreapp3.1/Method.Override.runtimeconfig.dev.json
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/bin/Debug/netcoreapp3.1/Method.Override.dll
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/bin/Debug/netcoreapp3.1/Method.Override.pdb
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/obj/Debug/netcoreapp3.1/Method.Override.csproj.AssemblyReference.cache
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/obj/Debug/netcoreapp3.1/Method.Override.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/obj/Debug/netcoreapp3.1/Method.Override.AssemblyInfoInputs.cache
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/obj/Debug/netcoreapp3.1/Method.Override.AssemblyInfo.cs
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/obj/Debug/netcoreapp3.1/Method.Override.csproj.CoreCompileInputs.cache
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/obj/Debug/netcoreapp3.1/Method.Override.dll
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/obj/Debug/netcoreapp3.1/Method.Override.pdb
+/Users/oscar/Desktop/Object Oriented/Method.Override/Method.Override/obj/Debug/netcoreapp3.1/Method.Override.genruntimeconfig.cache

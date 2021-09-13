@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{111FF73F-AE14-4BB7-8C9C-33D5A1944B96}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Method.Override/Program.cs">
+    <Files>
+      <File FileName="Method.Override/Program.cs" Line="16" Column="41" />
+      <File FileName="Method.Override/Vehicle.cs" />
+      <File FileName="Method.Override/Engines.cs" Line="8" Column="48" />
+      <File FileName="Method.Override/Rpms.cs" />
+      <File FileName="Method.Override/Cylinders.cs" />
+      <File FileName="Method.Override/PowerOfEngine.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Method.Override" expanded="True">
+            <Node name="Method.Override" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Method.Override PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
